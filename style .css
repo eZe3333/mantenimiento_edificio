@@ -36,6 +36,16 @@ table th, table td {
     text-align: left;
     font-size: 0.9rem;
 }
+tr:hover {
+    background-color: #d4e6d4;
+}
+
+td:hover {
+    background-color: #c3e0c3;
+    color: #2e6d4e;
+    font-weight: bold;
+}
+
 
 table th {
     background-color: #f2f2f2;
